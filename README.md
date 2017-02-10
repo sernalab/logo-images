@@ -11,7 +11,11 @@
     [![HTML5 and CSS3](https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)  
   
 ---  
-  
+
+[![Skylab Coders Academy](https://github.com/FransLopez/logo-images/blob/master/logos/Skylab.png)](http://www.skylabcoders.com/es)
+
+---
+
 ##### To use the StandardJS Style logo on projects, the code must meet standards set in [standardjs.com](http://standardjs.com/)
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
