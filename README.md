@@ -44,7 +44,7 @@
 
 ---
 
-##### To use the StandardJS Style logo on projects, the code must meet standards set in [standardjs.com](http://standardjs.com/)
+#### To use the StandardJS Style logo on projects, the code must meet standards set in [standardjs.com](http://standardjs.com/)
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
     [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
